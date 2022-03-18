@@ -2,7 +2,9 @@
 
 #### By Emilio Gonzales
 
-#### A portfolio website
+#### A portfolio website showcasing HTML, CSS, and Bootstrap
+
+_[Link to portfolio site](#)_
 
 ## Technologies Used
 * HTML
