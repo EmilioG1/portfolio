@@ -7,9 +7,10 @@
 ## Technologies Used
 * HTML
 * CSS
+* Bootstrap
 
 ## Description
-_This is a portfolio website build in HTML and CSS. It gives a brief description of myself, my hobbies and skills, and a list of projects I've worked on at Epicodus up until now._
+_This is a portfolio website build in HTML, CSS, and Bootstrap. It gives a brief description of myself, my hobbies and skills, and a list of projects I've worked on at Epicodus up until now._
 
 ## Setup/Installation Instructions
 * Clone this repository to your desktop

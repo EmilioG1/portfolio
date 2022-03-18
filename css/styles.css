@@ -20,6 +20,7 @@ body {
   color: rgb(225, 233, 236);
   border: 2px white;
   border-style: double none;
+  margin: 30px 0px 40px 0px;
 }
 
 .projects {
@@ -64,4 +65,9 @@ h2 {
 
 .container {
   padding: 15px;
+}
+
+.list-inline-item {
+  font-family: Courier;
+  text-align: center;
 }
