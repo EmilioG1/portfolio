@@ -67,7 +67,8 @@ h2 {
   padding: 15px;
 }
 
-.list-inline-item {
-  font-family: Courier;
+.list-group-item {
+  background-color: rgb(225, 233, 236);
   text-align: center;
+  margin-bottom: 10px;
 }
