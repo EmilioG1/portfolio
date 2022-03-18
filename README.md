@@ -4,7 +4,7 @@
 
 #### A portfolio website showcasing HTML, CSS, and Bootstrap
 
-_[Link to portfolio site](#)_
+_[Link to portfolio site](https://emiliog1.github.io/portfolio/)_
 
 ## Technologies Used
 * HTML
