@@ -15,7 +15,7 @@
 
 .projects {
   float: right;
-  width: 50%;
+  width: 40%;
   text-align: center;
   border: 4px black solid;
   box-sizing: border-box;
@@ -28,11 +28,12 @@ h2 {
 .font {
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-style: oblique;
+  text-decoration: underline;
 }
 
 .about {
   display: block;
-  width: 50%;
+  width: 60%;
   float: left;
   border: 4px black solid;
   box-sizing: border-box;
@@ -41,4 +42,9 @@ h2 {
 
 .list {
   float: left;
+}
+
+.big {
+  font-weight: bold;
+  font-size: 17px;
 }
