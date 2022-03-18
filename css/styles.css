@@ -1,0 +1,7 @@
+img {
+  width: 50%;
+  height: auto;
+  float: center;
+  border-radius: 10% 10%;
+  border: 10px inset white;
+}
