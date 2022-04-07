@@ -23,6 +23,11 @@ body {
   margin: 30px 0px 40px 0px;
 }
 
+.header:hover {
+  background-color: royalblue;
+  color: yellow;
+}
+
 .projects {
   float: right;
   width: 40%;
@@ -53,9 +58,16 @@ h2 {
   float: left;
 }
 
-.big {
+#appear {
   font-weight: bold;
   font-size: 17px;
+  color: rgb(90, 128, 255);
+}
+
+#appear:hover {
+  text-decoration: underline;
+  cursor: grab;
+  color: rgb(169, 101, 18);
 }
 
 .pages {
@@ -71,4 +83,15 @@ h2 {
   background-color: rgb(225, 233, 236);
   text-align: center;
   margin-bottom: 10px;
+}
+
+#kodi-pic {
+  width: 100%;
+  height: auto;
+  margin-left: 30px;
+  margin-bottom: 15px;
+}
+
+#kodi1 {
+  display: none;
 }
